@@ -1,0 +1,11 @@
+/home/xudefu/alacritty/target/release/deps/yaml_rust-2304fc6d440c22f5.rmeta: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/lib.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/emitter.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/parser.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/scanner.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/yaml.rs
+
+/home/xudefu/alacritty/target/release/deps/libyaml_rust-2304fc6d440c22f5.rlib: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/lib.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/emitter.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/parser.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/scanner.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/yaml.rs
+
+/home/xudefu/alacritty/target/release/deps/yaml_rust-2304fc6d440c22f5.d: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/lib.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/emitter.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/parser.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/scanner.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/yaml.rs
+
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/lib.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/emitter.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/parser.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/scanner.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/yaml-rust-0.4.5/src/yaml.rs:

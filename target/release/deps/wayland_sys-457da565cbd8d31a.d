@@ -1,0 +1,11 @@
+/home/xudefu/alacritty/target/release/deps/wayland_sys-457da565cbd8d31a.rmeta: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/lib.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/common.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/client.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/server.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/egl.rs
+
+/home/xudefu/alacritty/target/release/deps/libwayland_sys-457da565cbd8d31a.rlib: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/lib.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/common.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/client.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/server.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/egl.rs
+
+/home/xudefu/alacritty/target/release/deps/wayland_sys-457da565cbd8d31a.d: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/lib.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/common.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/client.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/server.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/egl.rs
+
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/lib.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/common.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/client.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/server.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wayland-sys-0.29.4/src/egl.rs:

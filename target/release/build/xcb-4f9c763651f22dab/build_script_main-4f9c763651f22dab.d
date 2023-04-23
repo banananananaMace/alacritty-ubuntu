@@ -1,0 +1,11 @@
+/home/xudefu/alacritty/target/release/build/xcb-4f9c763651f22dab/build_script_main-4f9c763651f22dab: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/main.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/ast.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/codegen/mod.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/codegen/ffi.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/codegen/rs.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/output.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/parse.rs
+
+/home/xudefu/alacritty/target/release/build/xcb-4f9c763651f22dab/build_script_main-4f9c763651f22dab.d: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/main.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/ast.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/codegen/mod.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/codegen/ffi.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/codegen/rs.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/output.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/parse.rs
+
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/main.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/ast.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/codegen/mod.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/codegen/ffi.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/codegen/rs.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/output.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/xcb-0.10.1/build/parse.rs:

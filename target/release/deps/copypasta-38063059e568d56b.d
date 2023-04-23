@@ -1,0 +1,11 @@
+/home/xudefu/alacritty/target/release/deps/copypasta-38063059e568d56b.rmeta: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/lib.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/common.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/wayland_clipboard.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/x11_clipboard.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/nop_clipboard.rs
+
+/home/xudefu/alacritty/target/release/deps/libcopypasta-38063059e568d56b.rlib: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/lib.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/common.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/wayland_clipboard.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/x11_clipboard.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/nop_clipboard.rs
+
+/home/xudefu/alacritty/target/release/deps/copypasta-38063059e568d56b.d: /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/lib.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/common.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/wayland_clipboard.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/x11_clipboard.rs /home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/nop_clipboard.rs
+
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/lib.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/common.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/wayland_clipboard.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/x11_clipboard.rs:
+/home/xudefu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/copypasta-0.7.1/src/nop_clipboard.rs:
